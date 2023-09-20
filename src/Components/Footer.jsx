@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="mb-8">
       <p className="text-center">
-        All copy rights &copy; {date.getFullYear()} are reserved by devpdhana
+        All copy rights are &copy; {date.getFullYear()} reserved by devpdhana
       </p>
     </div>
   );
